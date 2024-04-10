@@ -139,4 +139,4 @@ export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = gold;
 export const KAYAKING_COLOR = cyan;
 export const SNOWBOARD_COLOR = dark_vanilla;
-export const TRAIL_RUN_COLOR = IKB;
+export const TRAIL_RUN_COLOR = gold;
