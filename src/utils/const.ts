@@ -133,7 +133,6 @@ export const RUN_COLOR = yellow;
 export const TRAIL_RUN_COLOR = gold;
 export const RIDE_COLOR = green;
 export const HIKE_COLOR = pink;
-export const SWIMMING_COLOR = cyan;
 export const ROWING_COLOR = cyan;
 export const KAYAKING_COLOR = cyan;
 export const SNOWBOARD_COLOR = wpink;
