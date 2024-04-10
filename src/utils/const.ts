@@ -30,7 +30,7 @@ const GOOGLE_ANALYTICS_TRACKING_ID = '';
 // styling: set to `true` if you want dash-line route
 const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
-const LINE_OPACITY = 0.9;
+const LINE_OPACITY = 0.4;
 // styling: map height
 const MAP_HEIGHT = 600;
 //set to `false` if you want to hide the road label characters
@@ -44,14 +44,14 @@ const LIGHTS_ON = true;
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string =>
-  `以运动点亮地球 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
+  `户外运动 ${yearLength} 年 ` + ( year === 'Total' ? '' : `，地图展示的是 ${year} 年的轨迹`);
 
 const ENGLISH_INFO_MESSAGE = (yearLength: number, year: string): string =>
   `Logged ${yearLength} Years of Outdoor Journey` +  ( year === 'Total' ? '' : `, the map show routes in ${year}`);
 
 // not support English for now
 const CHINESE_LOCATION_INFO_MESSAGE_FIRST =
-  '像萤火虫有微光，希望随着时间推移，地图点亮的地方越来越多';
+  '我去过了一些地方，希望随着时间推移，地图点亮的地方越来越多';
 const CHINESE_LOCATION_INFO_MESSAGE_SECOND = '不要停下来，不要停下探索的脚步';
 
 const INFO_MESSAGE = IS_CHINESE ? CHINESE_INFO_MESSAGE : ENGLISH_INFO_MESSAGE;
@@ -117,7 +117,7 @@ const green = 'rgb(0,237,94)';
 const pink = 'rgb(237,85,219)';
 const cyan = 'rgb(112,243,255)';
 const IKB = 'rgb(0,47,167)';
-const wpink = 'rgb(228,212,220)';
+const dark_vanilla = 'rgb(228,212,220)';
 const gold = 'rgb(242,190,69)';
 const purple = 'rgb(154,118,252)';
 const veryPeri = 'rgb(105,106,173)';//长春花蓝
@@ -127,17 +127,16 @@ const red = 'rgb(255,0,0)';//大红色
 // issues #92 and #198
 export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = green;
-export const PROVINCE_FILL_COLOR = '#47b8e0';
-export const COUNTRY_FILL_COLOR = yellow;
 export const RUN_COLOR = yellow;
-export const TRAIL_RUN_COLOR = gold;
 export const RIDE_COLOR = green;
-export const HIKE_COLOR = pink;
-export const ROWING_COLOR = cyan;
-export const KAYAKING_COLOR = cyan;
-export const SNOWBOARD_COLOR = wpink;
 export const VIRTUAL_RIDE_COLOR = veryPeri;
+export const HIKE_COLOR = pink;
+export const SWIM_COLOR = gold;
+export const ROWING_COLOR = cyan;
 export const ROAD_TRIP_COLOR = purple;
-export const FLIGHT_COLOR = wpink;
-
-
+export const FLIGHT_COLOR = dark_vanilla;
+export const PROVINCE_FILL_COLOR = '#47b8e0';
+export const COUNTRY_FILL_COLOR = dark_vanilla;
+export const KAYAKING_COLOR = red;
+export const SNOWBOARD_COLOR = dark_vanilla;
+export const TRAIL_RUN_COLOR = IKB;
