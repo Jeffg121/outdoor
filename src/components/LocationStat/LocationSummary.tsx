@@ -7,11 +7,11 @@ const LocationSummary = () => {
   return (
     <div className="cursor-pointer">
       <section>
-        {years ? <Stat value={`${years.length}`} description=" 年里我走过" /> : null}
-        {countries ? <Stat value={countries.length} description=" 个国家" /> : null}
-        {provinces ? <Stat value={provinces.length} description=" 个省份" /> : null}
+        {years ? <Stat value={`${years.length}`} description=" 年里我用运动探索过" /> : null}
+        {countries ? <Stat value={countries.length} description=" /193个国家" /> : null}
+        {provinces ? <Stat value={provinces.length} description=" /34个中国省份" /> : null}
         {cities ? (
-          <Stat value={Object.keys(cities).length} description=" 个城市" />
+          <Stat value={Object.keys(cities).length} description=" /338个中国地级市" />
         ) : null}
       </section>
       <hr color="red" />
