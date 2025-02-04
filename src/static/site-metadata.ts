@@ -11,21 +11,22 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+  siteTitle: 'Outdoors Map',
+  siteUrl: 'https://www.zhihu.com/people/wan-sai-ji',
+  logo: 'https://pic1.zhimg.com/v2-fbedec8ead9d47a7cb596d240e9eb8c5_xl.jpg?source=32738c0c',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://ben29.xyz',
+      name: '赛记',
+      url: 'https://www.zhihu.com/people/wan-sai-ji',
     },
     {
-      name: 'About',
+      name: '关于',
       url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
     },
   ],
 };
 
 export default data;
+
