@@ -19,7 +19,7 @@ const data: ISiteMetadataResult = {
   navLinks: [
     {
       name: '赛记',
-      url: 'https://www.zhihu.com/people/wan-sai-ji',
+      url: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4NzE1NTI4MA==&action=getalbum&album_id=1540766711656824835&scene=173&subscene=&sessionid=svr_cf360113092&enterid=1742283048&from_msgid=2247484184&from_itemidx=1&count=3&nolastread=1#wechat_redirect',
     },
     {
       name: '关于',
