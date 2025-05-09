@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2019-01-14T06:21:05.000Z</time>
+  </metadata>
+  <trk>
+    <name>Kota Kinabalu 其它</name>
+    <type>other</type>
+    <trkseg>
+      <trkpt lat="6.1147490702569484710693359375" lon="116.10742502845823764801025390625">
+        <time>2019-01-14T06:32:27.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="6.11468478105962276458740234375" lon="116.10748655162751674652099609375">
+        <time>2019-01-14T06:36:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="6.11484185792505741119384765625" lon="116.10794303007423877716064453125">
+        <time>2019-01-14T06:39:17.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="6.115036569535732269287109375" lon="116.10823002643883228302001953125">
+        <time>2019-01-14T06:41:18.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="6.114952079951763153076171875" lon="116.108537726104259490966796875">
+        <time>2019-01-14T06:42:37.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="6.11519314348697662353515625" lon="116.10884944908320903778076171875">
+        <time>2019-01-14T06:44:58.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="6.11523614265024662017822265625" lon="116.10895791091024875640869140625">
+        <time>2019-01-14T06:46:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
