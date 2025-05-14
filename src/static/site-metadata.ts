@@ -23,15 +23,15 @@ const data: ISiteMetadataResult = {
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: '统计表',
+      name: 'Summary',
       url: `${getBasePath()}/summary`,
     },
     {
-      name: '玩赛记',
+      name: 'Blog',
       url: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4NzE1NTI4MA==&action=getalbum&album_id=1540766711656824835',
     },
     {
-      name: '关于',
+      name: 'About',
       url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
     },
   ],
