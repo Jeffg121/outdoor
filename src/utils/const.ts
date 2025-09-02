@@ -44,7 +44,7 @@ const ROAD_LABEL_DISPLAY = true;
 const PRIVACY_MODE = false;
 // updated on 2024/11/17: lights are turned off by default
 //set to `false` if you want to make light off as default, only effect when `PRIVACY_MODE` = false
-const LIGHTS_ON = false;
+const LIGHTS_ON = true;
 //set to `true` if you want to show the 'Elevation Gain' column
 const SHOW_ELEVATION_GAIN = true;
 // richer title for the activity types (like garmin style)
@@ -241,7 +241,7 @@ export const KAYAKING_COLOR = [red, red];
 export const SNOWBOARD_COLOR = [dark_vanilla, dark_vanilla];
 export const TRAIL_RUN_COLOR = [IKB, IKB];
 export const PROVINCE_FILL_COLOR = '#47b8e0';
-export const COUNTRY_FILL_COLOR = '#98fb98';
+export const COUNTRY_FILL_COLOR = '#FFEFD5';
 
 // map tiles vendor, maptiler or mapbox or stadiamaps
 // if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
