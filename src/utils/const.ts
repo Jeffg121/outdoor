@@ -203,11 +203,11 @@ export const MAIN_COLOR = green;
 export const MAIN_COLOR_LIGHT = purple2;
 
 // Static color constants
-export const RUN_COLOR_LIGHT = '#47b8e0';
+export const RUN_COLOR_LIGHT = '#FF4500';
 export const RUN_COLOR_DARK = MAIN_COLOR;
 
 // Single run animation colors
-export const SINGLE_RUN_COLOR_LIGHT = '#52c41a'; // Green for light theme
+export const SINGLE_RUN_COLOR_LIGHT = '#FF4500'; // Green for light theme
 export const SINGLE_RUN_COLOR_DARK = '#ff4d4f'; // Red for dark theme
 
 // Helper function to get theme-aware SINGLE_RUN_COLOR
@@ -241,7 +241,7 @@ export const KAYAKING_COLOR = [red, red];
 export const SNOWBOARD_COLOR = [dark_vanilla, dark_vanilla];
 export const TRAIL_RUN_COLOR = [IKB, IKB];
 export const PROVINCE_FILL_COLOR = '#47b8e0';
-export const COUNTRY_FILL_COLOR = '#FFEFD5';
+export const COUNTRY_FILL_COLOR = '#778899';
 
 // map tiles vendor, maptiler or mapbox or stadiamaps
 // if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
