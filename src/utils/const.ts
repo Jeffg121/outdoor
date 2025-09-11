@@ -81,7 +81,7 @@ const SUP_TITLE = IS_CHINESE ? '桨板' : 'Sup';
 const SNOWBOARD_TITLE = IS_CHINESE ? '单板滑雪' : 'Snowboard';
 const SKI_TITLE = IS_CHINESE ? '滑雪' : 'Ski';
 const ROAD_TRIP_TITLE = IS_CHINESE ? '自驾' : 'RoadTrip';
-const FLIGHT_TITLE = IS_CHINESE ? '飞行' : 'Flight';
+const GENERIC_TITLE = IS_CHINESE ? '其它' : 'Generic';
 const RUN_TREADMILL_TITLE = IS_CHINESE ? '跑步机' : 'Treadmill Run';
 const ALL_TITLE = IS_CHINESE ? '所有' : 'All';
 const ACTIVITY_COUNT_TITLE = IS_CHINESE ? '活动次数' : 'Activity Count';
@@ -117,7 +117,7 @@ const RUN_TITLES = {
   SNOWBOARD_TITLE,
   SKI_TITLE,
   ROAD_TRIP_TITLE,
-  FLIGHT_TITLE,
+  GENERIC_TITLE,
   RUN_TREADMILL_TITLE,
   ALL_TITLE,
 };
@@ -135,7 +135,7 @@ const TYPES_MAPPING = {
   Snowboard: RUN_TITLES.SNOWBOARD_TITLE,
   Ski: RUN_TITLES.SKI_TITLE,
   RoadTrip: RUN_TITLES.ROAD_TRIP_TITLE,
-  Flight: RUN_TITLES.FLIGHT_TITLE,
+  Generic: RUN_TITLES.GENERIC_TITLE,
   'Treadmill Run': RUN_TITLES.RUN_TREADMILL_TITLE,
   all: RUN_TITLES.ALL_TITLE,
 };
@@ -241,7 +241,7 @@ export const KAYAKING_COLOR = [red, red];
 export const SNOWBOARD_COLOR = [dark_vanilla, dark_vanilla];
 export const TRAIL_RUN_COLOR = [IKB, IKB];
 export const PROVINCE_FILL_COLOR = '#47b8e0';
-export const COUNTRY_FILL_COLOR = dark_vanilla;
+export const COUNTRY_FILL_COLOR = '#ff4500';
 
 // map tiles vendor, maptiler or mapbox or stadiamaps
 // if you want to use maptiler, set the access token in MAP_TILE_ACCESS_TOKEN
