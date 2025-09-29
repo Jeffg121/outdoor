@@ -422,7 +422,7 @@ export const chinaCities: ICity[] = [
   },
   {
     code: '232700',
-    name: '大兴安岭地区',
+    name: '大兴安岭',
     province: '23',
     city: '27',
   },
