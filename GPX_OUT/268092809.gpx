@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>250.0</distance>
+<average_hr>67.0</average_hr>
+<average_speed>1.1360000371932983</average_speed>
+<start_time>2023-09-07T02:12:34+00:00</start_time>
+<end_time>2023-09-07T03:14:50.615000+00:00</end_time>
+<moving_time>220.066</moving_time>
+<elapsed_time>3743.782</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2023-09-07T02:12:34.000Z</time>
+  </metadata>
+  <trk>
+    <name>泳池游泳</name>
+    <desc>陪小芸豆到水适能中心来上课，真是初生牛犊不怕虎。</desc>
+    <type>lap_swimming</type>
+    <trkseg/>
+  </trk>
+</gpx>

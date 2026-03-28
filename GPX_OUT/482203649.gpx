@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>10126.31</distance>
+<average_hr>122.0</average_hr>
+<average_speed>2.4539999961853027</average_speed>
+<start_time>2025-05-28T12:09:40+00:00</start_time>
+<end_time>2025-05-28T13:18:25.642000+00:00</end_time>
+<moving_time>4107.56</moving_time>
+<elapsed_time>4128.506</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2025-05-28T12:09:40.000Z</time>
+  </metadata>
+  <trk>
+    <name>轻刻健身跑步机 14</name>
+    <desc>如果以 10K 的时速跑，大概会吞掉 2%，9K 时速基本正常，可能当时是以这个时速调校的。</desc>
+    <type>treadmill_running</type>
+    <trkseg/>
+  </trk>
+</gpx>

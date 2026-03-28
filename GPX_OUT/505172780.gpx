@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>3500.0</distance>
+<average_hr>93.0</average_hr>
+<average_speed>1.9220000505447388</average_speed>
+<start_time>2025-08-05T12:13:11+00:00</start_time>
+<end_time>2025-08-05T12:43:31.714000+00:00</end_time>
+<moving_time>1789.879</moving_time>
+<elapsed_time>1820.714</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2025-08-05T12:13:11.000Z</time>
+  </metadata>
+  <trk>
+    <name>健身房跑路家里跑步机</name>
+    <desc>健身房季度卡还差两天到期，健身房就关门倒闭了。家附近另一个大的健身房承诺1298元年卡，多送90天，健身房对我是刚需，得买，但是不知道这个会不会跑路。</desc>
+    <type>treadmill_running</type>
+    <trkseg/>
+  </trk>
+</gpx>

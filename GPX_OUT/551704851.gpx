@@ -1,0 +1,25 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>2219.9</distance>
+<average_hr>78.0</average_hr>
+<average_speed>1.6740000247955322</average_speed>
+<start_time>2025-12-25T13:10:33+00:00</start_time>
+<end_time>2025-12-25T13:32:38.897000+00:00</end_time>
+<moving_time>928.0</moving_time>
+<elapsed_time>1995.623</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2025-12-25T13:10:33.000Z</time>
+  </metadata>
+  <trk>
+    <name>在家跑步机测数据</name>
+    <desc>佳明的数据同步问题折腾了我们两个多月，据说今天晚上发现了问题所在，希望能搞定，大家真的精疲力竭了。
+
+</desc>
+    <type>treadmill_running</type>
+    <trkseg/>
+  </trk>
+</gpx>

@@ -1,0 +1,23 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>10225.91</distance>
+<average_hr>123.0</average_hr>
+<average_speed>2.503000020980835</average_speed>
+<start_time>2025-05-27T12:13:32+00:00</start_time>
+<end_time>2025-05-27T13:21:37.616000+00:00</end_time>
+<moving_time>4072.221</moving_time>
+<elapsed_time>4085.616</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2025-05-27T12:13:32.000Z</time>
+  </metadata>
+  <trk>
+    <name>轻刻健身跑步机 13</name>
+    <desc>能坚持在跑步机上跑 10K 是不容易的，主要受到我一高中同学，半年减肥 40 斤，每天走跑距离 25K 的激励…还有就是分段跑，workout page 有 bug.</desc>
+    <type>treadmill_running</type>
+    <trkseg/>
+  </trk>
+</gpx>
