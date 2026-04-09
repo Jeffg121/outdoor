@@ -243,7 +243,7 @@ export const ROAD_TRIP_COLOR = [purple, purple];
 export const FLIGHT_COLOR = [dark_vanilla, dark_vanilla];
 export const KAYAKING_COLOR = [red, red];
 export const SNOWBOARD_COLOR = [dark_vanilla, dark_vanilla];
-export const TRAIL_RUN_COLOR = [IKB, IKB];
+export const TRAIL_RUN_COLOR = [gold, gold];
 export const PROVINCE_FILL_COLOR = '#47b8e0';
 export const COUNTRY_FILL_COLOR = '#c0ff3e';
 
