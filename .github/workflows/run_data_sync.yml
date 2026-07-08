@@ -29,7 +29,7 @@ env:
   ATHLETE: Jeffg
   TITLE: Outdoors
   MIN_GRID_DISTANCE: 9 # change min distance here
-  TITLE_GRID: Over 9km Workouts # also here
+  TITLE_GRID: Over 10km Workouts # also here
 
   # IGNORE_BEFORE_SAVING: True # if you want to ignore some data before saving, set this to True
   IGNORE_START_END_RANGE: 0 # Unit meter
