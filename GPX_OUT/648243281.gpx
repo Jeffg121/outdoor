@@ -1,0 +1,53 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>0.51</distance>
+<average_hr>80.0</average_hr>
+<average_speed>0.15399999916553497</average_speed>
+<start_time>2026-09-27T06:57:41+00:00</start_time>
+<end_time>2026-09-27T06:57:44.308000+00:00</end_time>
+<moving_time>0.0</moving_time>
+<elapsed_time>3.308</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2026-09-27T06:57:41.000Z</time>
+  </metadata>
+  <trk>
+    <name>Sochi 徒步</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="43.65842945873737335205078125" lon="40.3193690814077854156494140625">
+        <ele>1178.800048828125</ele>
+        <time>2026-09-27T06:57:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>79</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.6584349907934665679931640625" lon="40.31937033869326114654541015625">
+        <ele>1178.5999755859375</ele>
+        <time>2026-09-27T06:57:42.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>80</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.65843540988862514495849609375" lon="40.3193503059446811676025390625">
+        <ele>1178.5999755859375</ele>
+        <time>2026-09-27T06:57:43.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>80</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

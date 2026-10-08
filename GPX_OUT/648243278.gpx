@@ -1,0 +1,63 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>12.08</distance>
+<average_hr>67.0</average_hr>
+<average_speed>3.546999931335449</average_speed>
+<start_time>2026-09-26T07:41:04+00:00</start_time>
+<end_time>2026-09-26T07:41:07.406000+00:00</end_time>
+<moving_time>2.0</moving_time>
+<elapsed_time>3.406</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2026-09-26T07:41:04.000Z</time>
+  </metadata>
+  <trk>
+    <name>Sochi 徒步</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="43.66401918232440948486328125" lon="40.31031536869704723358154296875">
+        <ele>1001.79998779296875</ele>
+        <time>2026-09-26T07:41:04.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>66</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.66399814374744892120361328125" lon="40.31034889630973339080810546875">
+        <ele>1003</ele>
+        <time>2026-09-26T07:41:05.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>66</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.66397383622825145721435546875" lon="40.31038443557918071746826171875">
+        <ele>1004.20001220703125</ele>
+        <time>2026-09-26T07:41:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>66</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.663943745195865631103515625" lon="40.3104232437908649444580078125">
+        <ele>1005.4000244140625</ele>
+        <time>2026-09-26T07:41:07.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>68</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

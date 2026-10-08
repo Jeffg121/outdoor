@@ -1,0 +1,63 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>0.89</distance>
+<average_hr>62.0</average_hr>
+<average_speed>0.25099998712539673</average_speed>
+<start_time>2026-10-03T02:07:04+00:00</start_time>
+<end_time>2026-10-03T02:07:07.543000+00:00</end_time>
+<moving_time>0.0</moving_time>
+<elapsed_time>3.543</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2026-10-03T02:07:04.000Z</time>
+  </metadata>
+  <trk>
+    <name>沈阳市 徒步</name>
+    <type>hiking</type>
+    <trkseg>
+      <trkpt lat="42.0499756000936031341552734375" lon="123.724570311605930328369140625">
+        <ele>251.600006103515625</ele>
+        <time>2026-10-03T02:07:04.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>61</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.04997434280812740325927734375" lon="123.72456670738756656646728515625">
+        <ele>251.600006103515625</ele>
+        <time>2026-10-03T02:07:05.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>61</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.0499756000936031341552734375" lon="123.7245734967291355133056640625">
+        <ele>251.600006103515625</ele>
+        <time>2026-10-03T02:07:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>63</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="42.0499737560749053955078125" lon="123.7245815433561801910400390625">
+        <ele>251.8000030517578125</ele>
+        <time>2026-10-03T02:07:07.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>63</ns3:hr>
+            <ns3:cad>0</ns3:cad>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
